@@ -1,2 +1,2 @@
 # -
-一个纯（HTML+CSS+JavasScript+jQuery）网页教师管理系统
+一个纯（HTML+CSS+JavasScript+jQuery）教师资格证面试管理系统
